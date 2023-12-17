@@ -1,0 +1,23 @@
+{
+  "order_number": "1234",
+  "tracking_updates": [
+    {
+      "carrier": "China Post",
+      "status": "Shipped",
+      "location": "Shanghai, China",
+      "timestamp": "2023-07-20T09:15:00"
+    },
+    {
+      "carrier": "USPS",
+      "status": "Arrival at Regional Depot",
+      "location": "Los Angeles, USA",
+      "timestamp": "2023-08-01T18:30:00"
+    },
+    {
+      "carrier": "USPS",
+      "status": "Out for Local Delivery",
+      "location": "Los Angeles, USA",
+      "timestamp": "2023-08-02T10:45:00"
+    }
+  ]
+}
